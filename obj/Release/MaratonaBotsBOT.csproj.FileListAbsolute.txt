@@ -1,0 +1,56 @@
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Bot Application.dll.config
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Bot Application.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Bot Application.pdb
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Autofac.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Chronic.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.Bot.Builder.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.Bot.Connector.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Newtonsoft.Json.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\System.Net.Http.Formatting.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\System.Web.Http.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\System.Web.Http.WebHost.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Autofac.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.Bot.Builder.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.Bot.Connector.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\Newtonsoft.Json.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\System.Net.Http.Formatting.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\System.Web.Http.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\System.Web.Http.WebHost.xml
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\obj\Release\MaratonaBotsBOT.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\obj\Release\Bot Application.dll
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\obj\Release\Bot Application.pdb
+C:\Users\felip\Documents\Visual Studio 2017\Projects\MarabotaBotsProjeto\MaratonaBotsBOT\obj\Release\MaratonaBotsBOT.csprojResolveAssemblyReference.cache
